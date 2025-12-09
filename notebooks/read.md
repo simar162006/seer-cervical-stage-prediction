@@ -1,0 +1,1 @@
+All project analysis, preprocessing, model training and evaluation steps are documented in Jupyter notebooks inside the `notebooks/` folder. Running the notebooks in order will fully reproduce the results.
