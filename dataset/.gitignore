@@ -1,0 +1,23 @@
+# Ignore dataset
+dataset/
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional)
+*.pkl
+*.joblib
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
