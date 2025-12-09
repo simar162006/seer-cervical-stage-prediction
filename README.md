@@ -29,3 +29,4 @@ Dataset is **not uploaded due to licensing policy**, but download instructions a
 Model performance remained consistent across 2018–2022 with **no performance drift**, demonstrating strong temporal generalization.
 
 ## 🚀 Running the model
+Model training, EDA and evaluation are fully contained in the notebook. The .pkl file is optional and is only needed for deployment — it is not required to run or reproduce the project.
